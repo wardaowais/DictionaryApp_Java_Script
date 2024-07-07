@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+  }
+  
+  .navbar-brand, .nav-link {
+    color: white !important;
+  }
+  
+  .navbar-toggler-icon {
+    filter: invert(100%);
+  }
+  
+  #searchinput::placeholder {
+    color: lightgray;
+  }
+  
+  #searchinput {
+    color: white;
+  }
+  
+  #searchbtn {
+    background-color: blue;
+    color: white;
+  }
+  
+  #searchbtn:hover {
+    background-color: darkblue;
+    color: white;
+  }
+  
